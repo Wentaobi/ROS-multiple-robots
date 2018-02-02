@@ -1,0 +1,2 @@
+gazebo_multi
+-DCATKIN_DEVEL_PREFIX=/home/wentao/Desktop/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/wentao/Desktop/catkin_ws/install -G Unix Makefiles

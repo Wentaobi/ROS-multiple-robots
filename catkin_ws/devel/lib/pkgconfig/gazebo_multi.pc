@@ -1,0 +1,8 @@
+prefix=/home/wentao/Desktop/catkin_ws/devel
+
+Name: gazebo_multi
+Description: Description of gazebo_multi
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/wentao/Desktop/catkin_ws/devel/lib 
+Requires: 
